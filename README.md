@@ -27,7 +27,7 @@
 - `@group leave <groupname>`: Leave a group.
 - `@group delete <groupname>`: Delete group if member.
 
-### Enhancement: Customizable User Status
+### Enhancement: Customisable User Status
 - `@status <new_status>`: Set your current status (e.g., Busy, Away).
 - `@whois <username>`: View another user’s status.
 
