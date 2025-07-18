@@ -3,11 +3,11 @@
 ## Group Members
 | Name                             | Student IDs |
 |----------------------------------|-------------|
-| Ang Ke Ying                      |   2301545   |
-| Rojas Alessandro Rafael Doronila |   2402962   |
-| Tay Yu Xuan Jolene               |   2402963   |
-| Choh Kaifeng                     |   2403006   |
-| Raffael Davin Harjanto           |   2402294   |
+| Ang Ke Ying                      |   Removed   |
+| Rojas Alessandro Rafael Doronila |   Removed   |
+| Tay Yu Xuan Jolene               |   Removed   |
+| Choh Kaifeng                     |   Removed   |
+| Raffael Davin Harjanto           |   Removed   |
 
 ---
 
